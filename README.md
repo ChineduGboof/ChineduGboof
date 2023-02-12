@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently working on a project called Minishell.<br>The project is about creating a simple shell.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChineduGboof)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinedu-egbulefu-59169035) 
