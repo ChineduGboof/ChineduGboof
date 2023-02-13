@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a project called Minishell.<br>The project is about creating a simple shell.
+Grounded and Solution-focused Computer Scientist graduate with a wide variety of professional experiences. Adept at motivating self
+and others. Passionate about programming and educating the next generation of technology users.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=00001a&color=708090&line=f1f2f4&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
