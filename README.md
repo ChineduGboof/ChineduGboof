@@ -2,6 +2,7 @@
 I'm currently working on a project called Minishell.<br>The project is about creating a simple shell.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChineduGboof)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/7bbe0a888d2bb9c212f5857ba751769c5e75dc01/asset/react.png
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinedu-egbulefu-59169035) 
