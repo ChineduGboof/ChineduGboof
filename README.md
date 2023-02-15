@@ -1,8 +1,6 @@
 # 💫 About Me:
 Grounded and Solution-focused Computer Scientist graduate with a wide variety of professional experiences. Adept at motivating self
-and others. Passionate about programming and educating the next generation of technology users.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=00001a&color=708090&line=f1f2f4&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+and others. Passionate about programming and educating the next generation of technology users. Currently undergoing further studies at 42 Abudhabi Coding School.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinedu-egbulefu-59169035) 
@@ -18,6 +16,7 @@ and others. Passionate about programming and educating the next generation of te
 <a href="https://github.com/ChineduGboof/Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/ChineduGboof/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=00001a&color=708090&line=f1f2f4&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
