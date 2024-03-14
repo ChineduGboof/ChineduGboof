@@ -1,6 +1,5 @@
 # 💫 About Me:
-Grounded and Solution-focused Computer Scientist graduate with a wide variety of professional experiences. Adept at motivating self
-and others. Passionate about programming and educating the next generation of technology users. Currently undergoing further studies at 42 Abudhabi Coding School.
+Experienced software developer with proven success in building secure and scalable web applications. Proficient in Agile and Scrum methodologies, with a track record of delivering successful projects on time and within budget. Skilled in analyzing complex challenges and implementing innovative solutions to drive efficiency and enhance user experience. A detail-oriented communicator and lifelong learner, committed to contributing expertise and delivering exceptional results to your team. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinedu-egbulefu-59169035) 
